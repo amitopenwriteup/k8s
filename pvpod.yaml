@@ -12,4 +12,4 @@ spec:
   volumes:
     - name: mypd
       persistentVolumeClaim:
-        claimName: pvc-claim-2 
+        claimName: pvc-claim-3
