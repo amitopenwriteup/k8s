@@ -107,10 +107,5 @@ By using this repository, you will learn:
 * Provide **real-world multi-tier app examples**
 * Integrate with **CI/CD pipelines** (ArgoCD, Flux, Jenkins)
 
----
+.
 
-👉 This repo works as a **Kubernetes learning lab** 📘 and a **reference library** for day-to-day usage.
-
----
-
-Would you like me to also **group manifests into folders** (e.g., `pods/`, `services/`, `rbac/`, `storage/`) in the README so it’s easier for navigation?
